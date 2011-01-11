@@ -1,0 +1,72 @@
+21-10-2010 12:42:13 - Invoke: {
+  "jsonrpc": "2.0",
+  "method": "JSONRPC.Ping",
+  "id": 1
+}
+21-10-2010 12:42:13 - Response: pong
+21-10-2010 12:46:31 - Invoke: {
+  "jsonrpc": "2.0",
+  "method": "JSONRPC.Ping",
+  "id": 1
+}
+21-10-2010 12:46:31 - Response: pong
+21-10-2010 12:47:25 - Invoke: {
+  "jsonrpc": "2.0",
+  "method": "JSONRPC.Ping",
+  "id": 1
+}
+21-10-2010 12:47:25 - Response: pong
+21-10-2010 14:31:37 - Invoke: {
+  "jsonrpc": "2.0",
+  "method": "JSONRPC.Ping",
+  "id": 1
+}
+21-10-2010 14:31:37 - Response: pong
+21-10-2010 14:32:11 - Invoke: {
+  "jsonrpc": "2.0",
+  "method": "JSONRPC.Ping",
+  "id": 1
+}
+21-10-2010 14:32:11 - Response: pong
+21-10-2010 14:33:15 - Exception: Handlingen fik timeout
+21-10-2010 14:33:15 -    ved System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   ved System.Net.HttpWebRequest.GetRequestStream()
+   ved XbmcJson.JsonRpcClient.Invoke(String method, Object args, Nullable`1 timeout)
+21-10-2010 14:34:10 - Invoke: {
+  "jsonrpc": "2.0",
+  "method": "JSONRPC.Ping",
+  "id": 1
+}
+21-10-2010 14:34:10 - Response: pong
+21-10-2010 14:44:01 - Invoke: {
+  "jsonrpc": "2.0",
+  "method": "JSONRPC.Ping",
+  "id": 1
+}
+21-10-2010 14:44:01 - Response: pong
+21-10-2010 14:52:40 - Invoke: {
+  "jsonrpc": "2.0",
+  "method": "JSONRPC.Ping",
+  "id": 1
+}
+21-10-2010 14:52:40 - Response: pong
+21-10-2010 14:52:51 - Invoke: {
+  "jsonrpc": "2.0",
+  "method": "JSONRPC.Ping",
+  "id": 1
+}
+21-10-2010 14:52:51 - Response: pong
+21-10-2010 14:53:43 - Invoke: {
+  "jsonrpc": "2.0",
+  "method": "JSONRPC.Ping",
+  "id": 1
+}
+21-10-2010 14:53:43 - Response: pong
+21-10-2010 14:55:46 - Exception: Der kunne ikke oprettes forbindelse til fjernserveren
+21-10-2010 14:55:46 -    ved System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   ved System.Net.HttpWebRequest.GetRequestStream()
+   ved XbmcJson.JsonRpcClient.Invoke(String method, Object args, Nullable`1 timeout)
+21-10-2010 14:56:07 - Exception: Der kunne ikke oprettes forbindelse til fjernserveren
+21-10-2010 14:56:07 -    ved System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   ved System.Net.HttpWebRequest.GetRequestStream()
+   ved XbmcJson.JsonRpcClient.Invoke(String method, Object args, Nullable`1 timeout)
